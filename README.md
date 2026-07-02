@@ -1,3 +1,5 @@
+说明：今日15:00出现200GB流量涌入，带宽被拉满，现已改成多级缓存，将不在出现这个情况，下载速度应该在10-50mb/s比较合理，如果低于10mb/s请反馈。
+
 ![Image text](https://github.com/hello245m/free-stockdb/blob/main/%E7%BD%91%E9%A1%B5%E7%89%88%E7%A4%BA%E8%8C%83.png)
 
 
